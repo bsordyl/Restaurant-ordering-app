@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+    background-color: black;
+} 
+
+header{
+    background-image:url(images/Background\ burger.png);
+    height: 150px;
+    width:500px;
+    margin:auto;
+    color:white;
+}
